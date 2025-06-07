@@ -1,7 +1,7 @@
 using System;
 class Program
 {
-  static void main(){
-    console.Writeline("hello, world");
+  static void Main(){
+    Console.WriteLine("hello, world");
   }
 }
